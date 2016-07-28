@@ -19,7 +19,7 @@ for (var i = 0; i < list.length; i++){
        		};
       	j += 2;
      	};
-   	};
+   };
  };
   
  largestPrime = list.pop();
